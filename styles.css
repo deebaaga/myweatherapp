@@ -14,7 +14,7 @@ body {
   padding-right: 40px;
   margin: -30px;
   padding-bottom: 0px;
-  width: fit-content;
+  width: 550px;
 }
 input[type="text"] {
   background-color: #f7f6fc;
@@ -113,7 +113,7 @@ hr {
   color: #9a9a9e;
   font-weight: 500;
   position: relative;
-  left: 130px;
+  left: 103px;
   bottom: 19px;
 }
 #emoji {
